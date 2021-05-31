@@ -1,0 +1,1540 @@
+---[precice] [0m This is preCICE version 2.2.0
+---[precice] [0m Revision info: v2.2.0
+---[precice] [0m Configuration: Release (Debug and Trace log unavailable)
+---[precice] [0m Configuring preCICE with configuration "../precice-config.xml"
+---[precice] [0m I am participant "Solid"
+[[ 0.32  -0.105]
+ [ 0.32   0.016]
+ [ 0.32   0.097]]
+---[precice] [0m Setting up master communication to coupling partner/s
+---[precice] [0m Masters are connected
+---[precice] [0m Setting up preliminary slaves communication to coupling partner/s
+---[precice] [0m Prepare partition for mesh Solid-Mesh
+---[precice] [0m Gather mesh Solid-Mesh
+---[precice] [0m Send global mesh Solid-Mesh
+---[precice] [0m Setting up slaves communication to coupling partner/s
+---[precice] [0m Slaves are connected
+---[precice] [0m iteration: 1, time-window: 1, time: 0 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: no, 
+[[ 0.32  -0.105]
+ [ 0.32   0.016]
+ [ 0.32   0.097]]
+Rotation
+90.0
+Displacement:
+[[0. 0.]
+ [0. 0.]
+ [0. 0.]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 2, time: 0.01 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.69069133e-19 -8.67107430e-20]
+ [-4.15484056e-21 -1.23234852e-20]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.072
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-1.50781328e-04 -9.47387150e-08]
+ [-2.53840620e-04 -1.59492786e-07]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 3, time: 0.02 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.76133511e-19 -8.52901815e-20]
+ [-5.44320119e-21 -1.22578689e-20]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.144
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-3.01562418e-04 -3.78954710e-07]
+ [-5.07680838e-04 -6.37970893e-07]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 4, time: 0.03 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.49630571e-03  1.08654139e-04]
+ [-6.41377656e-03  8.17755308e-06]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.216
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-4.52343032e-04 -8.52647537e-07]
+ [-7.61520255e-04 -1.43543356e-06]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 5, time: 0.04 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 4.22818547e-05  2.24166019e-06]
+ [-1.29658913e-02 -1.63166170e-05]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.288
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-6.03122931e-04 -1.51581645e-06]
+ [-1.01535847e-03 -2.55187954e-06]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 6, time: 0.05 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 4.56376780e-05  2.16899397e-06]
+ [-1.94492402e-02 -3.66088679e-05]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.36
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-7.53901878e-04 -2.36846039e-06]
+ [-1.26919508e-03 -3.98730706e-06]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 7, time: 0.06 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.06531059e-05  2.00169428e-06]
+ [-2.59344549e-02 -6.54919316e-05]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.432
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-9.04679635e-04 -3.41057803e-06]
+ [-1.52302969e-03 -5.74171386e-06]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 8, time: 0.07 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.36273961e-05  2.01966948e-06]
+ [-3.24178865e-02 -1.02142574e-04]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.50399999999999
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-1.05545596e-03 -4.64216771e-06]
+ [-1.77686189e-03 -7.81509716e-06]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 9, time: 0.08 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.08818803e-05  1.81616842e-06]
+ [-3.89014011e-02 -1.46975187e-04]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.576
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-1.20623062e-03 -6.06322749e-06]
+ [-2.03069129e-03 -1.02074537e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 10, time: 0.09 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 8.52321242e-06  1.67064853e-06]
+ [-4.53848649e-02 -1.99959982e-04]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.648
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-1.35700338e-03 -7.67375513e-06]
+ [-2.28451747e-03 -1.29187797e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 11, time: 0.1 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 8.51820731e-06  1.61163724e-06]
+ [-5.18681722e-02 -2.61067922e-04]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.72
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-1.50777399e-03 -9.47374807e-06]
+ [-2.53834006e-03 -1.59490708e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 12, time: 0.11 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 2.78814845e-05  1.33858036e-06]
+ [-5.83502683e-02 -3.29943629e-04]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.792
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-1.65854223e-03 -1.14632035e-05]
+ [-2.79215863e-03 -1.92983224e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 13, time: 0.12 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 3.02008848e-05  1.34169251e-06]
+ [-6.48333861e-02 -4.07316950e-04]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.864
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-1.80930784e-03 -1.36421182e-05]
+ [-3.04597279e-03 -2.29665290e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 14, time: 0.13 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.11836848e-06  1.37110812e-06]
+ [-7.13177680e-02 -4.93346750e-04]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+90.936
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-1.96007060e-03 -1.60104889e-05]
+ [-3.29978215e-03 -2.69536850e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 15, time: 0.14 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.89908225e-06  1.35773718e-06]
+ [-7.78004542e-02 -5.86954111e-04]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.00800000000001
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-2.11083026e-03 -1.85683116e-05]
+ [-3.55358629e-03 -3.12597839e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 16, time: 0.15 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.01476412e-05  1.35240706e-06]
+ [-8.42832148e-02 -6.88780533e-04]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.08
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-2.26158658e-03 -2.13155825e-05]
+ [-3.80738482e-03 -3.58848191e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 17, time: 0.16 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 8.33457166e-06  1.25247000e-06]
+ [-9.07659632e-02 -7.98804523e-04]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.152
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-2.41233934e-03 -2.42522972e-05]
+ [-4.06117734e-03 -4.08287831e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 18, time: 0.17 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.39932662e-06  1.19328087e-06]
+ [-9.72484967e-02 -9.16945975e-04]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.224
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-2.56308829e-03 -2.73784510e-05]
+ [-4.31496345e-03 -4.60916683e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 19, time: 0.18 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 2.07598543e-05  1.13836443e-06]
+ [-1.03730186e-01 -1.04290913e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.296
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-2.71383319e-03 -3.06940390e-05]
+ [-4.56874274e-03 -5.16734663e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 20, time: 0.19 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.99290857e-05  1.12889888e-06]
+ [-1.10212460e-01 -1.17735862e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.368
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-2.86457380e-03 -3.41990559e-05]
+ [-4.82251482e-03 -5.75741682e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 21, time: 0.2 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.81782288e-05  1.11554062e-06]
+ [-1.16694575e-01 -1.31996488e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.44
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-3.01530989e-03 -3.78934963e-05]
+ [-5.07627928e-03 -6.37937648e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 22, time: 0.21 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 2.86701446e-07  1.23803976e-06]
+ [-1.23177376e-01 -1.47118108e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.512
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-3.16604122e-03 -4.17773542e-05]
+ [-5.33003573e-03 -7.03322462e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 23, time: 0.22 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 3.89022513e-06  1.17989726e-06]
+ [-1.29658824e-01 -1.62994328e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.584
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-3.31676755e-03 -4.58506237e-05]
+ [-5.58378375e-03 -7.71896021e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 24, time: 0.23 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.97960110e-06  1.23229642e-06]
+ [-1.36140217e-01 -1.79692828e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.65599999999999
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-3.46748864e-03 -5.01132981e-05]
+ [-5.83752297e-03 -8.43658217e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 25, time: 0.24 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 9.82745100e-06  1.12736839e-06]
+ [-1.42621162e-01 -1.97191874e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.728
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-3.61820426e-03 -5.45653708e-05]
+ [-6.09125296e-03 -9.18608937e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 26, time: 0.25 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.23280473e-05  1.15033961e-06]
+ [-1.49102104e-01 -2.15517731e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.8
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-3.76891416e-03 -5.92068348e-05]
+ [-6.34497333e-03 -9.96748061e-05]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 27, time: 0.26 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.19550395e-05  1.15581375e-06]
+ [-1.55582886e-01 -2.34662540e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.872
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-3.91961811e-03 -6.40376828e-05]
+ [-6.59868369e-03 -1.07807547e-04]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 28, time: 0.27 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.15891653e-05  1.15476713e-06]
+ [-1.62063422e-01 -2.54621732e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+91.944
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-4.07031587e-03 -6.90579070e-05]
+ [-6.85238362e-03 -1.16259103e-04]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 29, time: 0.28 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.15695280e-05  1.17018498e-06]
+ [-1.68543708e-01 -2.75395709e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.016
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-4.22100721e-03 -7.42674996e-05]
+ [-7.10607274e-03 -1.25029461e-04]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 30, time: 0.29 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.13090767e-05  1.16593229e-06]
+ [-1.75023718e-01 -2.96983462e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.08800000000001
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-4.37169187e-03 -7.96664524e-05]
+ [-7.35975063e-03 -1.34118607e-04]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 31, time: 0.3 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.10674492e-05  1.17065547e-06]
+ [-1.81503457e-01 -3.19385880e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.16000000000001
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-4.52236964e-03 -8.52547568e-05]
+ [-7.61341690e-03 -1.43526527e-04]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 32, time: 0.31 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.07929031e-05  1.17687504e-06]
+ [-1.87982914e-01 -3.42602874e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.232
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-4.67304026e-03 -9.10324040e-05]
+ [-7.86707115e-03 -1.53253205e-04]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 33, time: 0.32 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.03456988e-05  1.17894479e-06]
+ [-1.94462075e-01 -3.66634296e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.304
+Displacement:
+[[ 0.00000000e+00  0.00000000e+00]
+ [-4.82370350e-03 -9.69993849e-05]
+ [-8.12071297e-03 -1.63298628e-04]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 34, time: 0.33 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.02719717e-05  1.20131597e-06]
+ [-2.00940928e-01 -3.91479863e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.376
+Displacement:
+[[ 0.          0.        ]
+ [-0.00497436 -0.00010316]
+ [-0.00837434 -0.00017366]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 35, time: 0.34 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.01663810e-05  1.21042300e-06]
+ [-2.07419457e-01 -4.17139141e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.44800000000001
+Displacement:
+[[ 0.          0.        ]
+ [-0.00512501 -0.0001095 ]
+ [-0.00862796 -0.00018435]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 36, time: 0.35 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 9.66546558e-06  1.21959856e-06]
+ [-2.13897669e-01 -4.43613400e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.52
+Displacement:
+[[ 0.          0.        ]
+ [-0.00527565 -0.00011604]
+ [-0.00888156 -0.00019535]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 37, time: 0.36 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 8.90982685e-06  1.23778479e-06]
+ [-2.20375564e-01 -4.70903488e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.592
+Displacement:
+[[ 0.          0.        ]
+ [-0.00542628 -0.00012276]
+ [-0.00913515 -0.00020667]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 38, time: 0.37 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 9.15517058e-06  1.25620540e-06]
+ [-2.26853070e-01 -4.99004312e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.664
+Displacement:
+[[ 0.          0.        ]
+ [-0.0055769  -0.00012967]
+ [-0.00938872 -0.00021831]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 39, time: 0.38 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 8.98992962e-06  1.26651593e-06]
+ [-2.33330230e-01 -5.27920118e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.736
+Displacement:
+[[ 0.          0.        ]
+ [-0.00572751 -0.00013678]
+ [-0.00964228 -0.00023026]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 40, time: 0.39 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 8.62753222e-06  1.28121186e-06]
+ [-2.39807025e-01 -5.57650292e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.80799999999999
+Displacement:
+[[ 0.          0.        ]
+ [-0.00587812 -0.00014407]
+ [-0.00989582 -0.00024254]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 41, time: 0.4 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 8.30895452e-06  1.30031625e-06]
+ [-2.46283441e-01 -5.88194245e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.88
+Displacement:
+[[ 0.          0.        ]
+ [-0.00602872 -0.00015155]
+ [-0.01014935 -0.00025513]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 42, time: 0.41 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 8.02065425e-06  1.31521495e-06]
+ [-2.52759463e-01 -6.19551735e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+92.952
+Displacement:
+[[ 0.          0.        ]
+ [-0.0061793  -0.00015922]
+ [-0.01040286 -0.00026805]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 43, time: 0.42 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.96173845e-06  1.34213515e-06]
+ [-2.59235087e-01 -6.51723112e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.024
+Displacement:
+[[ 0.          0.        ]
+ [-0.00632988 -0.00016708]
+ [-0.01065636 -0.00028128]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 44, time: 0.43 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.79986566e-06  1.35111774e-06]
+ [-2.65710291e-01 -6.84707188e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.09599999999999
+Displacement:
+[[ 0.          0.        ]
+ [-0.00648044 -0.00017513]
+ [-0.01090984 -0.00029483]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 45, time: 0.44 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.64837663e-06  1.36837566e-06]
+ [-2.72185079e-01 -7.18505411e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.16799999999999
+Displacement:
+[[ 0.          0.        ]
+ [-0.006631   -0.00018337]
+ [-0.0111633  -0.0003087 ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 46, time: 0.45 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.52121888e-06  1.38902615e-06]
+ [-2.78659438e-01 -7.53117242e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.24
+Displacement:
+[[ 0.          0.        ]
+ [-0.00678155 -0.00019179]
+ [-0.01141674 -0.00032289]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 47, time: 0.46 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.43035961e-06  1.40605251e-06]
+ [-2.85133355e-01 -7.88542505e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.31200000000001
+Displacement:
+[[ 0.          0.        ]
+ [-0.00693208 -0.00020041]
+ [-0.01167017 -0.00033739]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 48, time: 0.47 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.37934020e-06  1.41551102e-06]
+ [-2.91606820e-01 -8.24781120e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.384
+Displacement:
+[[ 0.          0.        ]
+ [-0.0070826  -0.00020922]
+ [-0.01192358 -0.00035222]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 49, time: 0.48 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.36150346e-06  1.42646416e-06]
+ [-2.98079823e-01 -8.61833031e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.456
+Displacement:
+[[ 0.          0.        ]
+ [-0.00723312 -0.00021821]
+ [-0.01217697 -0.00036736]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 50, time: 0.49 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.36361395e-06  1.43898754e-06]
+ [-3.04552354e-01 -8.99698206e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.528
+Displacement:
+[[ 0.          0.        ]
+ [-0.00738362 -0.0002274 ]
+ [-0.01243034 -0.00038282]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 51, time: 0.5 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.37418984e-06  1.45221113e-06]
+ [-3.11024404e-01 -9.38376620e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.60000000000001
+Displacement:
+[[ 0.          0.        ]
+ [-0.00753411 -0.00023677]
+ [-0.01268368 -0.0003986 ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 52, time: 0.51 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.38953293e-06  1.45141815e-06]
+ [-3.17495961e-01 -9.77868228e-03]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.672
+Displacement:
+[[ 0.          0.        ]
+ [-0.00768459 -0.00024633]
+ [-0.01293701 -0.0004147 ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 53, time: 0.52 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.40555407e-06  1.45815658e-06]
+ [-3.23967017e-01 -1.01817298e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.744
+Displacement:
+[[ 0.          0.        ]
+ [-0.00783505 -0.00025608]
+ [-0.01319032 -0.00043112]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 54, time: 0.53 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.41591809e-06  1.46963815e-06]
+ [-3.30437561e-01 -1.05929082e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.816
+Displacement:
+[[ 0.          0.        ]
+ [-0.00798551 -0.00026602]
+ [-0.01344361 -0.00044785]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 55, time: 0.54 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.33442655e-06  1.47257386e-06]
+ [-3.36907579e-01 -1.10122127e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.888
+Displacement:
+[[ 0.          0.        ]
+ [-0.00813595 -0.00027615]
+ [-0.01369688 -0.0004649 ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 56, time: 0.55 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.36987142e-06  1.49701823e-06]
+ [-3.43377072e-01 -1.14396556e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+93.96
+Displacement:
+[[ 0.          0.        ]
+ [-0.00828637 -0.00028647]
+ [-0.01395013 -0.00048227]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 57, time: 0.56 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.44157295e-06  1.51039171e-06]
+ [-3.49846016e-01 -1.18752195e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.032
+Displacement:
+[[ 0.          0.        ]
+ [-0.00843679 -0.00029698]
+ [-0.01420335 -0.00049996]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 58, time: 0.57 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.52746587e-06  1.52360049e-06]
+ [-3.56314407e-01 -1.23189110e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.104
+Displacement:
+[[ 0.          0.        ]
+ [-0.00858719 -0.00030767]
+ [-0.01445655 -0.00051797]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 59, time: 0.58 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.59272345e-06  1.53748763e-06]
+ [-3.62782236e-01 -1.27707314e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.176
+Displacement:
+[[ 0.          0.        ]
+ [-0.00873758 -0.00031856]
+ [-0.01470973 -0.0005363 ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 60, time: 0.59 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.64470354e-06  1.55549254e-06]
+ [-3.69249495e-01 -1.32306823e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.24799999999999
+Displacement:
+[[ 0.          0.        ]
+ [-0.00888795 -0.00032963]
+ [-0.01496288 -0.00055494]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 61, time: 0.6 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.69321061e-06  1.57428757e-06]
+ [-3.75716169e-01 -1.36987587e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.32
+Displacement:
+[[ 0.          0.        ]
+ [-0.00903831 -0.0003409 ]
+ [-0.01521601 -0.0005739 ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 62, time: 0.61 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.71354035e-06  1.59507459e-06]
+ [-3.82182252e-01 -1.41749627e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.392
+Displacement:
+[[ 0.          0.        ]
+ [-0.00918866 -0.00035235]
+ [-0.01546912 -0.00059318]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 63, time: 0.62 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.75157932e-06  1.63000425e-06]
+ [-3.88647737e-01 -1.46592981e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.464
+Displacement:
+[[ 0.          0.        ]
+ [-0.00933899 -0.00036399]
+ [-0.01572221 -0.00061278]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 64, time: 0.63 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.77505545e-06  1.62899685e-06]
+ [-3.95112598e-01 -1.51517460e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.536
+Displacement:
+[[ 0.          0.        ]
+ [-0.00948931 -0.00037582]
+ [-0.01597526 -0.0006327 ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 65, time: 0.64 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.75325180e-06  1.63239592e-06]
+ [-4.01576843e-01 -1.56523270e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.608
+Displacement:
+[[ 0.          0.        ]
+ [-0.00963961 -0.00038784]
+ [-0.0162283  -0.00065293]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 66, time: 0.65 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.69868952e-06  1.64182900e-06]
+ [-4.08040456e-01 -1.61610343e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.68
+Displacement:
+[[ 0.          0.        ]
+ [-0.00978989 -0.00040005]
+ [-0.0164813  -0.00067348]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 67, time: 0.66 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.63617541e-06  1.65542718e-06]
+ [-4.14503424e-01 -1.66778623e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.75200000000001
+Displacement:
+[[ 0.          0.        ]
+ [-0.00994017 -0.00041245]
+ [-0.01673428 -0.00069435]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 68, time: 0.67 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.59988580e-06  1.67335278e-06]
+ [-4.20965736e-01 -1.72028107e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.824
+Displacement:
+[[ 0.          0.        ]
+ [-0.01009042 -0.00042503]
+ [-0.01698724 -0.00071554]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 69, time: 0.68 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.57543660e-06  1.69131085e-06]
+ [-4.27427384e-01 -1.77358801e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.896
+Displacement:
+[[ 0.          0.        ]
+ [-0.01024066 -0.00043781]
+ [-0.01724017 -0.00073705]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 70, time: 0.69 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.55510968e-06  1.71068106e-06]
+ [-4.33888358e-01 -1.82770706e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+94.968
+Displacement:
+[[ 0.          0.        ]
+ [-0.01039088 -0.00045077]
+ [-0.01749307 -0.00075887]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 71, time: 0.7 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.52958079e-06  1.73337263e-06]
+ [-4.40348649e-01 -1.88263827e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.04
+Displacement:
+[[ 0.          0.        ]
+ [-0.01054109 -0.00046392]
+ [-0.01774594 -0.00078101]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 72, time: 0.71 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.49173755e-06  1.76115502e-06]
+ [-4.46808249e-01 -1.93838199e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.112
+Displacement:
+[[ 0.          0.        ]
+ [-0.01069128 -0.00047726]
+ [-0.01799879 -0.00080347]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 73, time: 0.72 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.45809683e-06  1.76300714e-06]
+ [-4.53267137e-01 -1.99493646e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.184
+Displacement:
+[[ 0.          0.        ]
+ [-0.01084145 -0.00049079]
+ [-0.0182516  -0.00082625]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 74, time: 0.73 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.36623764e-06  1.74215194e-06]
+ [-4.59725290e-01 -2.05229939e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.256
+Displacement:
+[[ 0.          0.        ]
+ [-0.01099161 -0.00050451]
+ [-0.01850439 -0.00084934]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 75, time: 0.74 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.21347617e-06  1.74866312e-06]
+ [-4.66182727e-01 -2.11047537e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.328
+Displacement:
+[[ 0.          0.        ]
+ [-0.01114175 -0.00051842]
+ [-0.01875715 -0.00087275]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 76, time: 0.75 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 7.02246819e-06  1.76106945e-06]
+ [-4.72639422e-01 -2.16946214e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.39999999999999
+Displacement:
+[[ 0.          0.        ]
+ [-0.01129187 -0.00053251]
+ [-0.01900988 -0.00089648]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 77, time: 0.76 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.82911268e-06  1.74756926e-06]
+ [-4.79095366e-01 -2.22925925e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.472
+Displacement:
+[[ 0.          0.        ]
+ [-0.01144197 -0.0005468 ]
+ [-0.01926258 -0.00092053]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 78, time: 0.77 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.62686184e-06  1.79199045e-06]
+ [-4.85550571e-01 -2.28987067e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.544
+Displacement:
+[[ 0.          0.        ]
+ [-0.01159206 -0.00056127]
+ [-0.01951525 -0.0009449 ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 79, time: 0.78 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.46909567e-06  1.82054581e-06]
+ [-4.92005009e-01 -2.35129316e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.616
+Displacement:
+[[ 0.          0.        ]
+ [-0.01174212 -0.00057593]
+ [-0.01976788 -0.00096958]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 80, time: 0.79 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.33403781e-06  1.84891670e-06]
+ [-4.98458671e-01 -2.41352677e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.68799999999999
+Displacement:
+[[ 0.          0.        ]
+ [-0.01189217 -0.00059078]
+ [-0.02002049 -0.00099458]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 81, time: 0.8 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.22223168e-06  1.87481355e-06]
+ [-5.04911546e-01 -2.47657146e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.75999999999999
+Displacement:
+[[ 0.          0.        ]
+ [-0.0120422  -0.00060582]
+ [-0.02027307 -0.00101989]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 82, time: 0.81 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.16797106e-06  1.90596556e-06]
+ [-5.11363624e-01 -2.54042705e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.832
+Displacement:
+[[ 0.          0.        ]
+ [-0.01219221 -0.00062104]
+ [-0.02052561 -0.00104553]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 83, time: 0.82 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.16911479e-06  1.93620499e-06]
+ [-5.17814895e-01 -2.60509337e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.90400000000001
+Displacement:
+[[ 0.          0.        ]
+ [-0.0123422  -0.00063646]
+ [-0.02077812 -0.00107148]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 84, time: 0.83 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.07843287e-06  1.92953212e-06]
+ [-5.24265347e-01 -2.67057025e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+95.976
+Displacement:
+[[ 0.          0.        ]
+ [-0.01249218 -0.00065206]
+ [-0.0210306  -0.00109775]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 85, time: 0.84 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.00735361e-06  1.94347246e-06]
+ [-5.30714972e-01 -2.73685771e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.048
+Displacement:
+[[ 0.          0.        ]
+ [-0.01264213 -0.00066786]
+ [-0.02128304 -0.00112434]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 86, time: 0.85 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.92392261e-06  1.95983579e-06]
+ [-5.37163759e-01 -2.80395568e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.12
+Displacement:
+[[ 0.          0.        ]
+ [-0.01279206 -0.00068384]
+ [-0.02153545 -0.00115124]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 87, time: 0.86 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.81895156e-06  1.97588338e-06]
+ [-5.43611697e-01 -2.87186402e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.19200000000001
+Displacement:
+[[ 0.          0.        ]
+ [-0.01294197 -0.00070001]
+ [-0.02178783 -0.00117846]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 88, time: 0.87 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.69488752e-06  1.99867784e-06]
+ [-5.50058776e-01 -2.94058230e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.264
+Displacement:
+[[ 0.          0.        ]
+ [-0.01309186 -0.00071636]
+ [-0.02204017 -0.001206  ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 89, time: 0.88 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.53892618e-06  2.01407339e-06]
+ [-5.56504987e-01 -3.01011088e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.336
+Displacement:
+[[ 0.          0.        ]
+ [-0.01324173 -0.00073291]
+ [-0.02229248 -0.00123385]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 90, time: 0.89 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.36482183e-06  2.01322871e-06]
+ [-5.62950319e-01 -3.08044937e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.408
+Displacement:
+[[ 0.          0.        ]
+ [-0.01339158 -0.00074964]
+ [-0.02254475 -0.00126203]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 91, time: 0.9 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.27223471e-06  2.04230690e-06]
+ [-5.69394762e-01 -3.15159773e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.48
+Displacement:
+[[ 0.          0.        ]
+ [-0.01354141 -0.00076657]
+ [-0.02279699 -0.00129052]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 92, time: 0.91 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.19424578e-06  2.06099391e-06]
+ [-5.75838305e-01 -3.22355579e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.55199999999999
+Displacement:
+[[ 0.          0.        ]
+ [-0.01369122 -0.00078368]
+ [-0.02304919 -0.00131932]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 93, time: 0.92 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.18362514e-06  2.07232164e-06]
+ [-5.82280939e-01 -3.29632337e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.624
+Displacement:
+[[ 0.          0.        ]
+ [-0.013841   -0.00080098]
+ [-0.02330136 -0.00134844]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 94, time: 0.93 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.18335691e-06  2.10259195e-06]
+ [-5.88722652e-01 -3.36990029e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.696
+Displacement:
+[[ 0.          0.        ]
+ [-0.01399077 -0.00081846]
+ [-0.02355348 -0.00137788]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 95, time: 0.94 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.20940418e-06  2.08573309e-06]
+ [-5.95163434e-01 -3.44428650e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.768
+Displacement:
+[[ 0.          0.        ]
+ [-0.01414051 -0.00083614]
+ [-0.02380557 -0.00140764]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 96, time: 0.95 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.26809128e-06  2.05395074e-06]
+ [-6.01603276e-01 -3.51948196e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.83999999999999
+Displacement:
+[[ 0.          0.        ]
+ [-0.01429023 -0.000854  ]
+ [-0.02405763 -0.00143771]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 97, time: 0.96 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.33176316e-06  2.07391609e-06]
+ [-6.08042168e-01 -3.59548649e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.91199999999999
+Displacement:
+[[ 0.          0.        ]
+ [-0.01443993 -0.00087205]
+ [-0.02430964 -0.0014681 ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 98, time: 0.97 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.41509502e-06  2.10413864e-06]
+ [-6.14480099e-01 -3.67229992e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+96.984
+Displacement:
+[[ 0.          0.        ]
+ [-0.0145896  -0.00089029]
+ [-0.02456162 -0.00149881]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 99, time: 0.98 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.50491142e-06  2.17694093e-06]
+ [-6.20917059e-01 -3.74992219e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.056
+Displacement:
+[[ 0.          0.        ]
+ [-0.01473925 -0.00090872]
+ [-0.02481356 -0.00152983]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 100, time: 0.99 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.62588770e-06  2.26594170e-06]
+ [-6.27353039e-01 -3.82835331e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.128
+Displacement:
+[[ 0.          0.        ]
+ [-0.01488888 -0.00092734]
+ [-0.02506545 -0.00156117]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 101, time: 1 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.78322413e-06  2.36266655e-06]
+ [-6.33788028e-01 -3.90759311e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.2
+Displacement:
+[[ 0.          0.        ]
+ [-0.01503848 -0.00094614]
+ [-0.02531731 -0.00159283]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 102, time: 1.01 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.97193683e-06  2.47208773e-06]
+ [-6.40222016e-01 -3.98764137e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.272
+Displacement:
+[[ 0.          0.        ]
+ [-0.01518806 -0.00096513]
+ [-0.02556913 -0.0016248 ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 103, time: 1.02 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.21423722e-06  2.61357260e-06]
+ [-6.46654992e-01 -4.06849801e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.34400000000001
+Displacement:
+[[ 0.          0.        ]
+ [-0.01533762 -0.00098431]
+ [-0.02582091 -0.00165709]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 104, time: 1.03 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.50409272e-06  2.75391617e-06]
+ [-6.53086947e-01 -4.15016286e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.41600000000001
+Displacement:
+[[ 0.          0.        ]
+ [-0.01548715 -0.00100368]
+ [-0.02607265 -0.0016897 ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 105, time: 1.04 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.45887514e-06  2.67570140e-06]
+ [-6.59517870e-01 -4.23263559e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.488
+Displacement:
+[[ 0.          0.        ]
+ [-0.01563666 -0.00102324]
+ [-0.02632435 -0.00172262]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 106, time: 1.05 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.30765423e-06  2.64151977e-06]
+ [-6.65947754e-01 -4.31591706e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.56
+Displacement:
+[[ 0.          0.        ]
+ [-0.01578614 -0.00104298]
+ [-0.026576   -0.00175586]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 107, time: 1.06 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 6.17644375e-06  2.72734508e-06]
+ [-6.72376585e-01 -4.40000631e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.632
+Displacement:
+[[ 0.          0.        ]
+ [-0.0159356  -0.00106291]
+ [-0.02682761 -0.00178941]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 108, time: 1.07 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.92478484e-06  2.76840023e-06]
+ [-6.78804355e-01 -4.48490343e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.704
+Displacement:
+[[ 0.          0.        ]
+ [-0.01608504 -0.00108303]
+ [-0.02707918 -0.00182328]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 109, time: 1.08 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.78079742e-06  2.88196283e-06]
+ [-6.85231052e-01 -4.57060773e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.776
+Displacement:
+[[ 0.          0.        ]
+ [-0.01623444 -0.00110334]
+ [-0.02733071 -0.00185747]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 110, time: 1.09 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.55245313e-05  3.18719706e-06]
+ [-6.91656636e-01 -4.65711171e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.848
+Displacement:
+[[ 0.          0.        ]
+ [-0.01638383 -0.00112383]
+ [-0.0275822  -0.00189197]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 111, time: 1.1 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[-6.92328951e-06  3.23646619e-06]
+ [-6.98081035e-01 -4.74439856e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.92
+Displacement:
+[[ 0.          0.        ]
+ [-0.01653318 -0.00114451]
+ [-0.02783364 -0.00192679]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 112, time: 1.11 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 5.12714586e-05  3.67711354e-06]
+ [-7.04504495e-01 -4.83253546e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+97.992
+Displacement:
+[[ 0.          0.        ]
+ [-0.01668251 -0.00116538]
+ [-0.02808504 -0.00196193]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 113, time: 1.12 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[-7.18117917e-05  1.86833355e-06]
+ [-7.10927263e-01 -4.92159167e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+98.064
+Displacement:
+[[ 0.          0.        ]
+ [-0.01683182 -0.00118644]
+ [-0.02833639 -0.00199738]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 114, time: 1.13 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 4.64216227e-05 -2.74033274e-06]
+ [-7.17348055e-01 -5.01122695e-02]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+98.136
+Displacement:
+[[ 0.          0.        ]
+ [-0.01698109 -0.00120769]
+ [-0.0285877  -0.00203314]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 115, time: 1.14 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[-3.23571068e+22  1.52438905e+20]
+ [-2.04221554e+21 -5.58490553e+21]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+98.208
+Displacement:
+[[ 0.          0.        ]
+ [-0.01713034 -0.00122912]
+ [-0.02883896 -0.00206923]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 116, time: 1.15 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[3.58695141e+22 1.31576526e+21]
+ [5.27568479e+21 1.45935705e+22]
+ [0.00000000e+00 0.00000000e+00]]
+Rotation
+98.27999999999999
+Displacement:
+[[ 0.          0.        ]
+ [-0.01727957 -0.00125074]
+ [-0.02909018 -0.00210562]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 117, time: 1.16 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[-1.07638480e+32  6.87590306e+30]
+ [-1.84854042e+30 -5.17210457e+30]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+98.35199999999999
+Displacement:
+[[ 0.          0.        ]
+ [-0.01742876 -0.00127255]
+ [-0.02934135 -0.00214234]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 118, time: 1.17 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 4.74862092e+34  6.65071182e+32]
+ [-2.29710745e+33 -6.50074412e+33]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+98.424
+Displacement:
+[[ 0.          0.        ]
+ [-0.01757793 -0.00129454]
+ [-0.02959248 -0.00217937]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 119, time: 1.18 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[-5.79497867e+41 -1.41702267e+42]
+ [ 6.94775085e+36  1.98864758e+37]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+98.49600000000001
+Displacement:
+[[ 0.          0.        ]
+ [-0.01772707 -0.00131673]
+ [-0.02984355 -0.00221671]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 120, time: 1.19 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 2.99417894e+52 -1.46627403e+52]
+ [ 3.64086031e+47  1.05399478e+48]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+98.56800000000001
+Displacement:
+[[ 0.          0.        ]
+ [-0.01787618 -0.0013391 ]
+ [-0.03009459 -0.00225437]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 121, time: 1.2 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[-1.37652887e+69 -5.37421783e+69]
+ [-1.61856295e+66 -4.73886696e+66]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+98.64
+Displacement:
+[[ 0.          0.        ]
+ [-0.01802527 -0.00136165]
+ [-0.03034557 -0.00229235]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 122, time: 1.21 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[ 1.12776415e+82 -2.54452756e+80]
+ [-2.33232654e+79 -6.90613371e+79]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+98.712
+Displacement:
+[[ 0.          0.        ]
+ [-0.01817432 -0.0013844 ]
+ [-0.03059651 -0.00233064]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 123, time: 1.22 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[-2.86041438e+94 -6.47874305e+94]
+ [ 8.49435742e+90  2.54371049e+91]
+ [ 0.00000000e+00  0.00000000e+00]]
+Rotation
+98.784
+Displacement:
+[[ 0.          0.        ]
+ [-0.01832335 -0.00140733]
+ [-0.03084739 -0.00236924]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 124, time: 1.23 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[-1.85092700e+122  1.13414777e+122]
+ [-1.24343246e+115 -3.76567012e+115]
+ [ 0.00000000e+000  0.00000000e+000]]
+Rotation
+98.856
+Displacement:
+[[ 0.          0.        ]
+ [-0.01847235 -0.00143045]
+ [-0.03109823 -0.00240817]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 125, time: 1.24 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[-4.47908871e+132 -1.08635474e+132]
+ [-2.92596988e+131 -8.96117220e+131]
+ [ 0.00000000e+000  0.00000000e+000]]
+Rotation
+98.928
+Displacement:
+[[ 0.          0.        ]
+ [-0.01862132 -0.00145376]
+ [-0.03134902 -0.0024474 ]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 126, time: 1.25 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[3.34815392e+144 1.23133111e+143]
+ [3.10570305e+142 9.61883216e+142]
+ [0.00000000e+000 0.00000000e+000]]
+Rotation
+99.0
+Displacement:
+[[ 0.          0.        ]
+ [-0.01877026 -0.00147725]
+ [-0.03159976 -0.00248696]]
+DUMMY: Advancing in time
+---[precice] [0m Time window completed
+---[precice] [0m iteration: 1, time-window: 127, time: 1.26 of 10, time-window-size: 0.01, max-timestep-length: 0.01, ongoing: yes, time-window-complete: yes, 
+[[-1.21718814e+152  2.11595459e+151]
+ [-1.99695048e+150 -6.25446655e+150]
+ [ 0.00000000e+000  0.00000000e+000]]
+Rotation
+99.072
+Displacement:
+[[ 0.          0.        ]
+ [-0.01891917 -0.00150093]
+ [-0.03185045 -0.00252682]]
+DUMMY: Advancing in time
+---[precice] [31mERROR: [0m Receive using sockets failed with system error: read: End of file

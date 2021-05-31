@@ -1,0 +1,19 @@
+Run finished at Fri May 28 13:00:18 2021
+Global runtime       = 190ms / 0.19s
+Number of processors = 1
+# Rank: 0
+
+             Event |      Count |  Total[ms] |    Max[ms] |    Min[ms] |    Avg[ms] | Time Ratio |
+--------------------------------------------------------------------------------------------------
+           _GLOBAL |          1 |        190 |        190 |        190 |        190 |          1 |
+         configure |          1 |          0 |          0 |          0 |          0 |          0 |
+          finalize |          1 |          0 |          0 |          0 |          0 |          0 |
+ solver.initialize |          1 |        190 |        190 |        190 |        190 |          1 |
+
+
+              Name |        Max |  MaxOnRank |        Min |  MinOnRank |    Min/Max |
+-------------------------------------------------------------------------------------
+           _GLOBAL |        190 |          0 |        190 |          0 |          1 |
+         configure |          0 |          0 |          0 |          0 |          0 |
+          finalize |          0 |          0 |          0 |          0 |          0 |
+ solver.initialize |        190 |          0 |        190 |          0 |          1 |
